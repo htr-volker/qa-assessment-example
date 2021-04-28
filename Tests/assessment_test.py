@@ -1,4 +1,5 @@
 import pytest
+
 from Code import example
 
 def test_endsPy():
